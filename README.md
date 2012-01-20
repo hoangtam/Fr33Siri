@@ -71,8 +71,7 @@ I Packaged all the setup scripts in 1 file:
     2. Adding new OpenSSL
 
         `sudo mv openssl.cnf /etc/ssl/openssl.cnf`
-         Note: you have to edit the openssl.cnf first to add your IP/DNS to 1.common_name
-
+         
 
 **Generating Certificates**
     
