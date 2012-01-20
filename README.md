@@ -92,22 +92,25 @@ I Packaged all the setup scripts in 1 file:
 	
 **Installing Certificates**
        Mail your certificate to your self and install it on both (iPhone 4S, old_iDevice)
-	It's located in  `home/USERNAME/Fr33Siri/ca.crt`
+	It's located in  `home/USERNAME/Fr33Siri/Server/ca.crt`
 
 	
 **Making the keys directory to dump keys**
-
+        `cd /root/Fr33Siri`
 	`mkdir keys`  
 
 
 **Dumping 4S keys**
+   
+    1. Changing directory
+    `cd Server` 
 
-    1. Changing the permission
+    2. Changing the permission
 
         chmod +x reopen.sh
 		
 
-    2. Running the grabber
+    3. Running the grabber
 
         ./reopen.sh
 		
