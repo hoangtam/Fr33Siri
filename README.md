@@ -33,13 +33,13 @@ Also if you dont have static ip you can use this dns python server by JimmyKane,
 
 **Cloning my repo**
 	
-	A. launch terminal (if you don't know how to do, then go to sleep ;P)
+     A. launch terminal (if you don't know how to do, then go to sleep ;P)
     
-	B. `cd ~`
+     B. `cd ~`
 	
-	C. `apt-get install git`
+     C. `apt-get install git`
 	
-	D. `git clone https://freemanrepo@github.com/freemanrepo/Fr33Siri.git`
+     D. `git clone https://freemanrepo@github.com/freemanrepo/Fr33Siri.git`
 
 **Setup all required stuff**
 
@@ -91,7 +91,7 @@ I Packaged all the setup scripts in 1 file:
 
 	
 **Installing Certificates**
-    1. Mail your certificate to your self and install it on both (iPhone 4S, old_iDevice)
+       Mail your certificate to your self and install it on both (iPhone 4S, old_iDevice)
 	It's located in  `home/USERNAME/Fr33Siri/ca.crt`
 
 	
@@ -175,19 +175,19 @@ Acknowledgements
 
 **Greetings and big thanks to all the following...**
 
-  @plamoni ([http://twitter.com/plamoni])
+  @plamoni http://twitter.com/plamoni
 
-  @Grant Paul (chpwn) ([https://twitter.com/chpwn])
+  @Grant Paul (chpwn) https://twitter.com/chpwn
 
-  @Pod2g ([https://twitter.com/pod2g])
+  @Pod2g https://twitter.com/pod2g
 
-  @iH8sn0w ([https://twitter.com/iH8sn0w])
+  @iH8sn0w https://twitter.com/iH8sn0w
 
-  @MuscleNerd ([https://twitter.com/MuscleNerd ])
+  @MuscleNerd https://twitter.com/MuscleNerd 
 
-  @comex ([https://twitter.com/comex])
+  @comex https://twitter.com/comex
   
-  @JimmyKane ([http://twitter.com/JimmyKane9])
+  @JimmyKane http://twitter.com/JimmyKane9
 
 Disclaimer
 ----------
